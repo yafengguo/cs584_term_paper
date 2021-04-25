@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Authors11}
+Sepp Hochreiter and Jürgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9:1735--80, 12 1997.
+
+\bibitem{tool01}
+https://github.com/qztseng/google\-trends\ daily.
+\newblock google trends daily.
+
+\bibitem{Authors06}
+Jang Huisu.
+\newblock Predicting bitcoin prices by using rolling window lstm model.
+\newblock 2018.
+
+\bibitem{Authors07}
+Rob~J Hyndman and George Athanasopoulos.
+\newblock Forecasting: Principles and practice, 2nd.
+\newblock 2018.
+
+\bibitem{Authors04}
+Satoshi Nakamoto.
+\newblock Bitcoin: A peer-to-peer electronic cash system.
+\newblock (4), 2008.
+
+\bibitem{Authors08}
+Robert Nau.
+\newblock Introduction to arima models, 2014.
+
+\bibitem{Authors12}
+Christopher Olah.
+\newblock Lstm walkthrough.
+
+\bibitem{Authors02}
+O. Poyser.
+\newblock Exploring the determinants of bitcoin's price: an application of
+  bayesian structural time series.
+\newblock {\em Papers}, (2), 2017.
+
+\bibitem{Authors05}
+Obryan Poyser.
+\newblock Exploring the determinants of bitcoin's price: an application of
+  bayesian structural time series, 2017.
+
+\bibitem{Authors10}
+DE Rumelhart, G.~E. Hinton, and R.~J. Williams.
+\newblock Learning representations by back propagating errors.
+\newblock {\em Nature}, 323(6088):533--536, 1986.
+
+\bibitem{Authors01}
+Chainalysis Team.
+\newblock Why bitcoin is surging and how this rally is different from 2017,
+  2020.
+\newblock chainalysis.com.
+
+\bibitem{Authors03}
+Wikipedia.
+\newblock Bitcoin.
+
+\end{thebibliography}
